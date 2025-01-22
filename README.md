@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Anna!
 
 ## About Me
+- 🏅 School 21 alumni
 - 👩‍💻 Frontend Developer at **Sber**
 - 💻 Working with **React** and **TypeScript**
 
